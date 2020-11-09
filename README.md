@@ -7,8 +7,8 @@ https://analisis.datosabiertos.jcyl.es/explore/dataset/situacion-epidemiologica-
  https://ferhd96.github.io/VISOR_CYL/COVID-19_Vmovil.html
 
 ## Autor: 
-<ol>
+<ul>
 <li>Fernando Hernández de Vega </li>
 <li>Correo: ferhdv@gmail.com</li>
 <li>linkedin: https://www.linkedin.com/in/fernandohernandezdevega/</li>
-</ol>
+</ul>
