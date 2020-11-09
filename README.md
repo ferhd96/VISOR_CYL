@@ -3,7 +3,7 @@ Visor cartográfico sobre los casos de coronavirus en Castilla y León en tiempo
 Los datos son tomados de la API sobre la situación epidomológica de Castilla y León 
 https://analisis.datosabiertos.jcyl.es/explore/dataset/situacion-epidemiologica-coronavirus-en-castilla-y-leon/api/?disjunctive.provincia
 
-## Os dejo el enlace para poder visualizarlo: 
+## Enlace al visor: 
  https://ferhd96.github.io/VISOR_CYL/COVID-19_Vmovil.html
 
 ## Autor: 
